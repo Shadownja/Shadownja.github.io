@@ -1,0 +1,31 @@
+{
+  "series_name": "BERSERK",
+  "ongoing": true,
+  "major_hiatus_threshold": 2,
+  "arcs": [
+    {
+      "key": "hiatus-arc",
+      "name": "IM@S Arc"
+    },
+    {
+      "key": "Black-Swordsman-Arc",
+      "name": "Black Swordsman Arc"
+    },
+    {
+      "key": "Golden",
+      "name": "Golden Age Arc"
+    },
+    {
+      "key": "Conviction",
+      "name": "Conviction Arc"
+    },
+    {
+      "key": "Falcon",
+      "name": "Falcon of the Millenium Empire Arc"
+    },
+    {
+      "key": "Fantasia",
+      "name": "Fantasia Arc"
+    }
+  ]
+}

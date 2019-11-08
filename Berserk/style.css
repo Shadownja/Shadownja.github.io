@@ -1,0 +1,52 @@
+.hiatus-arc {
+    background-color: #E0E0E0;
+}
+
+.h-row:hover .hiatus-arc {
+    background-color: #cacaca !important;
+}
+
+.Black-Swordsman-Arc {
+    background-color: #3F51B5;
+}
+
+.h-row:hover .Black-Swordsman-Arc {
+    background-color: #1A237E;
+}
+
+.Golden {
+    background-color: #009688;
+}
+
+.h-row:hover .Golden {
+    background-color: #004D40;
+}
+
+.Conviction {
+    background-color: #FFC107;
+}
+
+.h-row:hover .Conviction {
+    background-color: #FF6F00;
+}
+
+.Falcon {
+    background-color: #4CAF50;
+}
+
+.h-row:hover .Falcon {
+    background-color: #43A047;
+}
+
+.Fantasia{
+    background-color: #FF5722;
+}
+
+.h-row:hover .Fantasia {
+    background-color: #F4511E;
+}
+
+/*add a margin to the last row*/
+.chart div .h-row:last-child .h-col:nth-child(2) {
+    margin-left: 255px;
+}

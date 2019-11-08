@@ -1,0 +1,4010 @@
+[
+	{
+		"number": 24,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2019,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 08,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2019,
+		"released": False
+	}, 	
+	{
+		"number": 03,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2019,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2018,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 16,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2018,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 10,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2018,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 08,
+		"year": 2018,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 07,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2018,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 05,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2018,
+		"released": False
+	}, 	
+	{
+		"number": 03,
+		"year": 2018,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 02,
+		"year": 2018,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2018,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 24,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2017,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 12,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2017,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 10,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2017,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 08,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2017,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 06,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2017,
+		"released": False
+	},
+ 	{
+		"number": 03,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2017,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2016,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 18,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2016,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 16,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2016,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 14,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2016,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 12,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2016,
+		"released": False
+	},
+ 	{
+		"number": 03,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2016,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2016,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 24,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2015,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 22,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2015,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 20,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2015,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 18,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2015,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 16,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2015,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 14,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2015,
+		"released": False
+	},
+ 	{
+		"number": 03,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2015,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2014,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 18,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2014,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 15,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2014,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 10,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 2014,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 07,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 03,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2014,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 03,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2013,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2013,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 24,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2012,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 20,
+		"year": 2012,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 19,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2012,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 13,
+		"year": 2012,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 12,
+		"year": 2012,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 11,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2012,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 03,
+		"year": 2012,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 02,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2012,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2011,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 18,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2011,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 14,
+		"year": 2011,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 13,
+		"year": 2011,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 12,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2011,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 09,
+		"year": 2011,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 08,
+		"year": 2011,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 07,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 03,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2011,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 22,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 21,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 20,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 14,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 13,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 12,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 04,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 03,
+		"year": 2010,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 02,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2010,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2009,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 20,
+		"year": 2009,
+		"released": True,
+		"arc": "Fantasia"
+	}, 
+	{
+		"number": 19,
+		"year": 2009,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 18,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2009,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2009,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 11,
+		"year": 2009,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 10,
+		"year": 2009,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 09,
+		"year": 2009,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 03,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2009,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 23,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 22,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 21,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 20,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 11,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 10,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 06,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 05,
+		"year": 2008,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 04,
+		"year": 2008,
+		"released": False
+	},
+ 	{
+		"number": 03,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2008,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 22,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 21,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 18,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 17,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 14,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 13,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 07,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 04,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	},
+	{
+		"number": 03,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 02,
+		"year": 2007,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 01,
+		"year": 2007,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 17,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 15,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 14,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 11,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 10,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 07,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 06,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 05,
+		"year": 2006,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 	
+	{
+		"number": 03,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 02,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 01,
+		"year": 2006,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 24,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 21,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 20,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 19,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 17,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+	"number": 16,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 15,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 14,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 11,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 10,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 07,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 06,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 04,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 	
+	{
+		"number": 03,
+		"year": 2005,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 02,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 2005,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2004,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 22,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 21,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 20,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 19,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 18,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 17,
+		"year": 2004,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2004,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 2004,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 2004,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 11,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 10,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 09,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 07,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 06,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 05,
+		"year": 2004,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 03,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 02,
+		"year": 2004,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 01,
+		"year": 2004,
+		"released": False
+	}, 
+	{
+		"number": 24,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 23,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 22,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 21,
+		"year": 2003,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 2003,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 18,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 17,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 16,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 15,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 14,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 13,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 11,
+		"year": 2003,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 09,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 07,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 06,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 05,
+		"year": 2003,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 03,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 02,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 01,
+		"year": 2003,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 24,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 23,
+		"year": 2002,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 21,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 20,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 19,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 18,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 17,
+		"year": 2002,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 15,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 14,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 13,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 11,
+		"year": 2002,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 09,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 07,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 06,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 05,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 04,
+		"year": 2002,
+		"released": False
+	}, 	
+	{
+		"number": 03,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 02,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 01,
+		"year": 2002,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 24,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 23,
+		"year": 2001,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 21,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 20,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 19,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 18,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 17,
+		"year": 2001,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 15,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 14,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 13,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 12,
+		"year": 2001,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 10,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 09,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 08,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 07,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 06,
+		"year": 2001,
+		"released": True,
+		"arc": "Falcon"
+	}, 
+	{
+		"number": 05,
+		"year": 2001,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 2001,
+		"released": True,
+		"arc": "Conviction"
+	}, 	
+	{
+		"number": 03,
+		"year": 2001,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 02,
+		"year": 2001,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 01,
+		"year": 2001,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 24,
+		"year": 2000,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 22,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 21,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 20,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 19,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 18,
+		"year": 2000,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 16,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 15,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 14,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 13,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 12,
+		"year": 2000,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 10,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 09,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 08,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 07,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 06,
+		"year": 2000,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 04,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	},
+ 	{
+		"number": 03,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 02,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 01,
+		"year": 2000,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 24,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 23,
+		"year": 1999,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 21,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 20,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 19,
+		"year": 1999,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 17,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 16,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 15,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 14,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 13,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 12,
+		"year": 1999,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 10,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 09,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 08,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 07,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 06,
+		"year": 1999,
+		"released": True,
+		#"arc": "Conviction"
+	}, 
+	{
+		"number": 05,
+		"year": 1999,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 03,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 02,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 01,
+		"year": 1999,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 24,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 23,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 22,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 21,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 20,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 19,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 18,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 17,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 16,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 15,
+		"year": 1998,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 13,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 12,
+		"year": 1998,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 10,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 09,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 08,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 07,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 06,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 05,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 04,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 03,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 02,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 01,
+		"year": 1998,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 24,
+		"year": 1997,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 22,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 21,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 20,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 19,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 18,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 17,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 16,
+		"year": 1997,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 14,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 13,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 12,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 11,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 10,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 09,
+		"year": 1997,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 07,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 06,
+		"year": 1997,
+		"released": True,
+		"arc": "Conviction"
+	}, 
+	{
+		"number": 05,
+		"year": 1997,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 04,
+		"year": 1997,
+		"released": False
+	}, 
+	{
+		"number": 03,
+		"year": 1997,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 1997,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 1997,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 24,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 23,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 22,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 21,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 20,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 19,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 18,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 17,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 16,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 15,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 14,
+		"year": 1996,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 12,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 11,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 10,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 09,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 08,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 07,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 06,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 05,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 04,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 03,
+		"year": 1996,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 01,
+		"year": 1996,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 24,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 23,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 22,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 21,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 20,
+		"year": 1995,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 18,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 17,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 16,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 15,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 14,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 13,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 12,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 11,
+		"year": 1995,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 09,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 08,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 07,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 06,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 05,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 04,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 03,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 02,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 01,
+		"year": 1995,
+		"released": True,
+		"arc": "Golden"
+		
+	}, 
+	{
+		"number": 24,
+		"year": 1994,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 22,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 21,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 20,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 19,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 18,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 17,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 16,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 15,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 14,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 13,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 12,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 11,
+		"year": 1994,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 09,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 08,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 07,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 06,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 05,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 04,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 03,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 02,
+		"year": 1994,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 1994,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 24,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 23,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 22,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 21,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 20,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 19,
+		"year": 1993,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 17,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 16,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 15,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 14,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 13,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 12,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 11,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 10,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 09,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 08,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 07,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 06,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 05,
+		"year": 1993,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 03,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 02,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 01,
+		"year": 1993,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 24,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 18,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 16,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 14,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 13,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 12,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 11,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 10,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 04,
+		"year": 1992,
+		"released": False
+	},
+ 	{
+		"number": 03,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 02,
+		"year": 1992,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 1992,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 24,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 1991,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 22,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 1991,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 20,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 1991,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 18,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 1991,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 16,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 1991,
+		"released": True,
+		"arc": "Golden"
+	}, 
+	{
+		"number": 14,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 1991,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 08,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 1991,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 06,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 1991,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 04,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 03,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 1991,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 1991,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 24,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 1990,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 22,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 1990,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 20,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 1990,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 18,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 17,
+		"year": 1990,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 16,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 15,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 14,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 13,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 12,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 11,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 10,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 09,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 08,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 07,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 06,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 05,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 04,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 03,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 02,
+		"year": 1990,
+		"released": False
+	}, 
+	{
+		"number": 01,
+		"year": 1990,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+	{
+		"number": 24,
+		"year": 1989,
+		"released": False
+	}, 
+	{
+		"number": 23,
+		"year": 1989,
+		"released": False
+	}, 
+	{
+		"number": 22,
+		"year": 1989,
+		"released": False
+	}, 
+	{
+		"number": 21,
+		"year": 1989,
+		"released": False
+	}, 
+	{
+		"number": 20,
+		"year": 1989,
+		"released": False
+	}, 
+	{
+		"number": 19,
+		"year": 1989,
+		"released": True,
+		"arc": "Black-Swordsman-Arc"
+	}, 
+]
